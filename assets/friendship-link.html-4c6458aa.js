@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as r,c as n}from"./app-0ce769fb.js";const t={};function c(o,i){return r(),n("div")}const f=e(t,[["render",c],["__file","friendship-link.html.vue"]]);export{f as default};
